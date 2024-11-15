@@ -4,7 +4,7 @@ Uses computer vision to differentiate playing cards with low resource consumptio
 This is a school project nothing fancy, however, if you want to improve it you're more than welcome to do so.
 You can also use it to implement computer vision in trading card games or maybe role playing tabletop games.
 
-# Dependecies
+# Dependencies
 -OpenCV `pip install opencv-python`
 -Matplotlib `pip install matplotlib`
 -Numpy 1.26.4 `pip install "numpy<2.0"`
